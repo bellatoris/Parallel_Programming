@@ -1,0 +1,16 @@
+console
+:paste
+r available.
+[error] :paste
+r available.
+[error] :paste
+r available.
+[error] :paste
+class HelloThread extends Thread {
+  override def run(): Unit = {
+    println("Hello world!")
+  }
+console
+libraryDependencies += sdf
+libraryDependencies += groupId
+console
